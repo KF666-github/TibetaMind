@@ -1,6 +1,15 @@
 # TibetaMind: Advanced Tibetan Language Model
 **TibetaMind** is an advanced language model based on the Llama 3-8B-Instruct architecture, further fine-tuned using extensive Tibetan language corpora. Through this specialized fine-tuning, **TibetaMind** has significantly enhanced its ability to comprehend, process, and generate Tibetan language content, while also providing seamless cross-language understanding between Tibetan and Chinese. This allows for accurate translation and communication across these languages. **TibetaMind** can be applied to a variety of tasks, including Tibetan text generation, summarization, and translation between Tibetan and Chinese, playing a pivotal role in preserving and advancing Tibetan linguistics in the digital age.
 
+# Download
+To download the model weights and tokenizer in transformers format, please visit [Hugging Face](https://huggingface.co/DaydreamerF/TibetaMind).
+
+To download the original native weights to use with this repo, click on the "Files and versions" tab and download the contents of the original folder. You can also download them from the command line if you pip install huggingface-hub:
+
+```bash
+huggingface-cli download DaydreamerF/TibetaMind --local-dir DaydreamerF/TibetaMind
+```
+
 # How to use
 ## Use with transformers
 ### Transformers AutoModelForCausalLM
