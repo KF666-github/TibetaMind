@@ -1,4 +1,4 @@
-# TibetaMind
+# TibetaMind: Advanced Tibetan Language Model
 **TibetaMind** is an advanced language model based on the Llama 3-8B-Instruct architecture, further fine-tuned using extensive Tibetan language corpora. Through this specialized fine-tuning, **TibetaMind** has significantly enhanced its ability to comprehend, process, and generate Tibetan language content, while also providing seamless cross-language understanding between Tibetan and Chinese. This allows for accurate translation and communication across these languages. **TibetaMind** can be applied to a variety of tasks, including Tibetan text generation, summarization, and translation between Tibetan and Chinese, playing a pivotal role in preserving and advancing Tibetan linguistics in the digital age.
 
 # How to use
