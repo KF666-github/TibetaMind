@@ -1,1 +1,1 @@
-# TibMind
+# TibetaMind
